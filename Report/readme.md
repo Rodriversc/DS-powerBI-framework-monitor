@@ -6,7 +6,7 @@ The project was developed using company-related data and internal source informa
  
 For this reason, only anonymised screenshots, the project assignment and presentation materials are included.
  
-## What is available
+## What is available --> See Screenshots folder
  
 - Anonymised dashboard screenshots
 - Project assignment
